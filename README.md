@@ -1,6 +1,6 @@
-# bmi_calculator
+# BMI Calculator
 
-A new Flutter project.
+Made an app which can basically check your BMI based on your gender, height, weight etc.
 
 ## Getting Started
 
